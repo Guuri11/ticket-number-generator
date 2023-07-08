@@ -7,7 +7,7 @@ pip3.9 install PyPDF2 reportlab
 ```
 
 # Run
-Make sure to have a "tickets" folder & change pdf file name in the code by your pdf file name
+Make sure to have a "tickets" folder & change pdf file name in the code by your pdf file name, replace coords for adding your text, then just run
 ```
 python3.9 script.py
 ```
